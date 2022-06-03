@@ -9,7 +9,7 @@
 
 Toolbox
 
-<img src='https://cdn.worldvectorlogo.com/logos/solidity.svg' width="50" height="50" > <img src='https://cdn.worldvectorlogo.com/logos/logo-javascript.svg' width="50" height="50" > <img src='https://cdn.worldvectorlogo.com/logos/css-3.svg' width="50" height="50" > <img src='https://cdn.worldvectorlogo.com/logos/html-1.svg' width="50" height="50" > <img src='https://cdn.worldvectorlogo.com/logos/c.svg' width="50" height="50" > <img src='https://cdn.worldvectorlogo.com/logos/python-4.svg' width="50" height="50" > <img src='https://cdn.worldvectorlogo.com/logos/git.svg' width="50" height="50" > <img src='https://cdn.worldvectorlogo.com/logos/nodejs.svg' width="50" height="50" > 
+<img src='https://www.ocamlpro.com/fr/blog/assets/img/logo_solidity_title.png' width="50" height="50" > <img src='https://cdn.worldvectorlogo.com/logos/logo-javascript.svg' width="50" height="50" > <img src='https://cdn.worldvectorlogo.com/logos/css-3.svg' width="50" height="50" > <img src='https://cdn.worldvectorlogo.com/logos/html-1.svg' width="50" height="50" > <img src='https://cdn.worldvectorlogo.com/logos/c.svg' width="50" height="50" > <img src='https://cdn.worldvectorlogo.com/logos/python-4.svg' width="50" height="50" > <img src='https://cdn.worldvectorlogo.com/logos/git.svg' width="50" height="50" > <img src='https://cdn.worldvectorlogo.com/logos/nodejs.svg' width="50" height="50" > 
 
 ---
 
