@@ -13,4 +13,7 @@ Toolbox
 
 ---
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=crypte-1&label=Profile%20views&color=0e75b6&style=flat" alt="crypte-1" /> </p>
+
+
 [![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=naman-ng&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
