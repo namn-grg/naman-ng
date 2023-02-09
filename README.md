@@ -3,7 +3,7 @@
 - 🏫📚 Student at IIITD
 - 🌱 I’m currently experimenting with Blockchain development
 - 💞️ I’m looking to collaborate on projects based on Web3.0.
-- 📫 Reach me by mailing me at [mail](0708ng@gmail.com) or [twitter](https://twitter.com/gragnaman).
+- 📫 Reach me by mailing me at [mail](0708ng@gmail.com) or [twitter](https://twitter.com/namn_grg).
 
 ---
 
